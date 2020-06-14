@@ -12,7 +12,7 @@ int main(void)
 	b[0] = a[0];
 	for(i = 1; i < MAX; i++)
 	{
-		b[i] = b[i -1] + a[i];
+		b[i] = b[i-1] + a[i];
 	}
 	for(i = 0; i < MAX; i++)
 	{

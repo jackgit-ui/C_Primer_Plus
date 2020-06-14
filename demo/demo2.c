@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
+int x = 9;
+
 int main(void)
 {
  const double price_artichokes = 2.05;
